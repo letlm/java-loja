@@ -1,3 +1,5 @@
+package br.com.alura.loja;
+
 import br.com.alura.loja.descontos.CalculadoraDeDescontos;
 import br.com.alura.loja.imposto.CalculadoraDeImpostos;
 import br.com.alura.loja.imposto.ICMS;
